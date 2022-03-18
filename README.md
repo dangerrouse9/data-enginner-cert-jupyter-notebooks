@@ -1,2 +1,2 @@
-# data-enginner-cert-jupyter-notebooks
-Jupyter notebook labs from IBM Data Engineer Certification Course
+# data-enginner-certificate-assignments
+A collection of classwork and assignments done for the IBM Data Engineer Certification Course
